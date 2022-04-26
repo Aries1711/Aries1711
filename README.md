@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning flutter and kotlin 
 - 💞️ I’m looking to collaborate on firebase service, etc.
-- 📫 How to reach me find me in upwork https://www.upwork.com/freelancers/~01a37f230335a04c72?viewMode=1
+- 📫 How to reach me find me in LinkedIn https://www.linkedin.com/in/arisqi-setyawan-devstack17/
 
 <!---
 Aries1711/Aries1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
