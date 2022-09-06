@@ -1,6 +1,6 @@
 ### My Profile
 
-- 👋 Hi, I’m ###Arisqi Setyawan
+- 👋 Hi, I’m Arisqi Setyawan
 - 👀 I’m interested in mobile app development & Fullstack
 - 🌱 I’m currently learning Flutter, Kotlin, NodeJS, & React.js. 
 - 📫 How to reach me find me in [Linkedin](https://www.linkedin.com/in/arisqi-setyawan-devstack17)
