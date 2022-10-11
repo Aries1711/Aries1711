@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Arisqi Setyawan
 - 👀 I’m interested in mobile app development & Fullstack
-- 🌱 I’m currently learning Flutter, Kotlin, NodeJS, & React.js. 
+- 🌱 I’m currently in depth learning Flutter, Kotlin, NodeJS, & React.js. 
 - 📫 How to reach me find me in [Linkedin](https://www.linkedin.com/in/arisqi-setyawan-devstack17)
 
 ### Language & Tools
