@@ -17,6 +17,7 @@ Fun Facts : I Do Like Challenge..
 <h3> 👨‍💻 Knowledge </h3>
 <p>
 <h4>Programming Language
+<hr>
 <img src="https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=dart">
 <img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php">
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript"> 
@@ -59,6 +60,7 @@ Fun Facts : I Do Like Challenge..
 <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker">
 </h4>
 <h4>Code Versioning
+
 <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
 <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/-GitLab-333333?style=flat-square&logo=gitlab">
