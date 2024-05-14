@@ -10,7 +10,8 @@ Fun Facts : I Do Like Challenge..
 
 <h3>
 <a href="https://www.linkedin.com/in/arisqi-setyawan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-arisqisetyawan-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
-<a href="https://www.codewars.com/users/Aries1711" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-arisqisetyawan codewars-blue?style=flat-square&logo=Rocket&logoColor=white/"></a>
+<a href="https://www.codewars.com/users/Aries1711" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-arisqisetyawan codeWars-blue?style=flat-square&logo=Rocket&logoColor=white/"></a>
+<a href="https://www.hackerrank.com/profile/ariesfreey17" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-arisqisetyawan hackerRank-blue?style=flat-square&logo=Rocket&logoColor=blue/"></a>
 <a href="mailto: ariesfreey17@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-ariesfreey17@gmail.com-f6f6f6?style=flat-square&logo=Gmail&logoColor=white/"></a>
 </h3>
 
