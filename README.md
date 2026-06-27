@@ -1,19 +1,38 @@
 <h1 align="center">Hi, I’m Arisqi Setyawan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
-<h3 align="center">Frontend Lead - AKA Fullstack Software Engineer on Mobile Application, Website and, Backend Application</h3>
+<h3 align="center">Senior AI Product & Full-Stack Engineer</h3>
 
-I'm Innovative and proactive worker, successful developing elegant, groundbreaking website and mobile application designs for demanding clients. Talented in Project Management, Team leadership and independent / team problem solving. Highly organized Multitasking with expertise in scheduling projects, enhancing designs and verifying code. Prepared to offer good team work abilities to team.
-
-Fun Facts : I Do Like Challenge..
-
-<h3> 🙋‍♂️  Want to know more
-</h3>
+AKA Software Engineer who building production AI/LLM platforms, full-stack web & mobile apps, and Web3/DeFi infrastructure. Based in Indonesia 🇮🇩 · Working remote-first across US/EU timezones · Open to senior full-time and long-term contract roles.
 
 <h3>
-<a href="https://www.linkedin.com/in/arisqi-setyawan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-arisqisetyawan-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
-<a href="https://www.codewars.com/users/Aries1711" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-arisqisetyawan codeWars-blue?style=flat-square&logo=Rocket&logoColor=white/"></a>
-<a href="https://www.hackerrank.com/profile/ariesfreey17" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-arisqisetyawan hackerRank-blue?style=flat-square&logo=Rocket&logoColor=blue/"></a>
 <a href="mailto: ariesfreey17@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-ariesfreey17@gmail.com-f6f6f6?style=flat-square&logo=Gmail&logoColor=white/"></a>
 </h3>
+
+### 🛠️ What I do
+
+I take products from greenfield to scale as a sole or lead engineer. My recent focus:
+
+- **AI product engineering** — LLM orchestration (Anthropic Claude, OpenAI, MiniMax), MCP tooling, RAG pipelines, structured intent extraction, conversational agents
+- **Full-stack web** — Next.js, NestJS, TypeScript, FastAPI, PostgreSQL, Redis, BullMQ
+- **Cross-platform mobile** — Flutter (5+ years shipping to Play Store & App Store)
+- **Fintech & regulated infrastructure** — ISO 27001 alignment, OJK certification process, penetration test remediation
+- **Web3 / DeFi** — Solana DLMM market-making, on-chain data integration, multi-chain payment rails
+
+---
+
+### 🚀 Live production work
+
+| Product                                                                                       | Role                                            | Stack                                                                                   |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **[CoinResearch.ai](https://www.coinresearch.ai/)** — AI-powered crypto research platform     | Sole product engineer (greenfield → scale)      | Next.js · NestJS · Python/FastAPI · Claude/OpenAI/MiniMax · PostgreSQL · Redis · Stripe |
+| **[StockResearch.ai](https://www.stockresearch.ai/)** — AI-powered equities research platform | Sole product engineer                           | Same stack, multi-tenant extension                                                      |
+| **[GGL Life](https://ggl.life/)** — Fitness & nutrition mobile app (iOS + Android)            | Frontend Lead (migrated React Native → Flutter) | Flutter · Firebase · HealthKit · Sentry · Moengage                                      |
+| **Julizar.id** — Regulated fintech (OJK-certified)                                            | IT Supervisor, Mobile Developer                 | Flutter · Laravel · ISO 27001 · pen-test hardened                                       |
+
+Built CoinResearch.ai end-to-end through the $300K strategic investment milestone from the Hilton Family Office (Sept 2025).
+
+### 🔧 Tech I work in daily
+
+`TypeScript` `Dart` `Python` `Next.js` `NestJS` `Flutter` `FastAPI` `PostgreSQL` `Redis` `Docker` `Anthropic API` `OpenAI API` `MCP` `Stripe` `AWS` `GCP` `Solana`
 
 <h3> 👨‍💻 Knowledge </h3>
 <p>
@@ -85,38 +104,24 @@ Fun Facts : I Do Like Challenge..
 <img src="https://img.shields.io/badge/-Inkscape-333333?style=flat-square&logo=inkscape">
 </h4>
 
-<h3>👨‍🔧 Most Known Project Or Work (Profitable 💰)</h3>
-<ul>
-  <li><h4>GGL App (Mobile Application)</h4>
-    <a href="https://ggl.life/" target="_blank" rel="noopener noreferrer">ggl.life</a>
-    <p> Frontend Lead and develop ggl.app mobile application primarily contributes as a Frontend developer.<br>
-      Tech: Flutter, Express, Go, Laravel-Apiato, SQFlite, PostgreSQL,Firebase, Moengage </p>
-  </li>
-  <li><h4>Kita App (Mobile Application & Website)</h4>
-    <a href="https://play.google.com/store/apps/details?id=com.kitakeluarga.app" target="_blank" rel="noopener noreferrer">Google play App</a> /
-    <a href="https://apps.apple.com/id/app/kitacare/id1634620671?l=id" target="_blank" rel="noopener noreferrer">AppStore App</a>
-    <p>	Fullstack Engineer and develop Mobile application, API Services and Website back-office website primarily contributes as a backend developer.<br>
-      Tech: Handlebars, Express, MySQL, MinIO</p>
-  </li>
-  <li><h4>Aksiberbagi Foundation (Mobile Application & Website)</h4>
-    <a href="https://aksiberbagi.com/" target="_blank" rel="noopener noreferrer">aksiberbagi.com</a>
-    <p>	Lead and develop oasislab.id back-office website primarily contributes as a backend developer.<br>
-      Tech: Handlebars, Express, MySQL, MinIO</p>
-  </li>
-  <li><h4>Beramal Bersama Foundation (Mobile Application & Website)</h4>
-    <a href="https://beramalbersama.com/" target="_blank" rel="noopener noreferrer">beramalbersama.com</a>
-    <p>	Lead and develop oasislab.id back-office website primarily contributes as a backend developer.<br>
-      Tech: Handlebars, Express, MySQL, MinIO</p>
-  </li>
-</ul>
-  
-<table>
-    <tr>
-        <td valign="center">
-            <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=aries1711&hide=html,css,tex,less,dockerfile,makefile,qmake,lex,cmake,shell,nuplot&layout=compact&theme=radical'>
-        </td>
-    </tr>
-</table>
+#### 💼 Currently
+
+- Freelancing on [Upwork](https://www.upwork.com/freelancers/arisqisetyawan) — AI/full-stack and Web3 engagements
+- Building **Jarvis**, a Solana DLMM market-making bot on Meteora (private repo)
+- Available for senior full-time and long-term contract roles — **remote, overseas**
+
+---
+
+#### 📫 Get in touch
+
+- **Portfolio** — [aries1711.github.io/portfolio-landing-page](https://aries1711.github.io/portfolio-landing-page/)
+- **LinkedIn** — [linkedin.com/in/arisqi-setyawan](https://www.linkedin.com/in/arisqi-setyawan/)
+- **Upwork** — [upwork.com/freelancers/arisqisetyawan](https://www.upwork.com/freelancers/arisqisetyawan)
+- **Email** — ariesfreey17@gmail.com
+
+---
+
+<sub>Most of my production code lives in private repos. The public repos here are learning sandboxes, side experiments, and code challenges from earlier in my career.</sub>
 
 <!---
 Aries1711/Aries1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
